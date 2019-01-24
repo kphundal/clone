@@ -44,6 +44,7 @@ public class Card {
      */
     public void setValue(int value) {
         this.value = value;
+        System.out.println("hello");
     }
     
     
